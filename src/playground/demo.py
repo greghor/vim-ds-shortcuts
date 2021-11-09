@@ -16,9 +16,12 @@ ax1.grid()
 plt.show(block=False)
 
 df["fare"] = pd.to_numeric(df["fare"])
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 4cac8cef251266b53fb947cef559bdce1f7470d5
 
 
