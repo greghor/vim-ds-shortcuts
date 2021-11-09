@@ -15,9 +15,6 @@ ax1.plot(df["age"])
 ax1.grid()
 plt.show(block=False)
 
-
-df["fare"] = pd.to_numeric(df["fare"])]
-
-
+df["fare"] = pd.to_numeric(df["fare"])
 
 
