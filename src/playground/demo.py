@@ -13,3 +13,15 @@ ax1.set_title("")
 ax1.grid()
 plt.show(block=False)
 
+[
+"mario kart stadium",
+"sweet sweet canyon",
+"thwomp ruins",
+"mario circuit ",
+"toad harbor",
+"shy guy falls",
+"sunshine airport",
+"mount wario",
+"cloudtop cruise",
+"bowser's castle",
+]
