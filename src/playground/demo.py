@@ -13,7 +13,5 @@ ax1.set_title("")
 ax1.grid()
 plt.show(block=False)
 
-
 df["age"] = pd.to_numeric(df["age"])]
 data_path = "data/raw/titanic.csv"
-
