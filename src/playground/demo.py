@@ -15,3 +15,16 @@ plt.show(block=False)
 
 df["age"] = pd.to_numeric(df["age"])]
 data_path = "data/raw/titanic.csv"
+
+[
+"mario kart stadium",
+"sweet sweet canyon",
+"thwomp ruins",
+"mario circuit ",
+"toad harbor",
+"shy guy falls",
+"sunshine airport",
+"mount wario",
+"cloudtop cruise",
+"bowser's castle",
+]
