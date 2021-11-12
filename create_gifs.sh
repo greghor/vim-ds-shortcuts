@@ -1,4 +1,10 @@
-ffmpeg -ss 00:00:00 -to 00:00:08 -i data/external/register_bestsecret.mov -vf "fps=10" -loop 0 data/gif/register_1.gif -y
+ffmpeg -i data/external/imovie/register_1.mp4 -vf "fps=10" -loop 0 data/gif/register_1.gif -y
+
+ffmpeg -i data/external/imovie/register_2.mp4 -vf "fps=10" -loop 0 data/gif/register_2.gif -y
+
+ffmpeg -i data/external/imovie/best_secret.mp4 -vf "fps=10" -loop 0 data/gif/best_secret.gif -y
+
+ffmpeg -i data/external/imovie/macro.mp4 -vf "fps=10" -loop 0 data/gif/macro.gif -y
 
 ffmpeg -ss 00:00:45 -to 00:00:48 -i data/external/register_bestsecret.mov -vf "fps=10" -loop 0 data/gif/register_2.gif -y
 
